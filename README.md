@@ -48,10 +48,10 @@ Add your database credentials in the backend .env file.
 
 Start the servers
 
-# Frontend
+## Frontend
 npm start
 
-# Backend
+## Backend
 node server.js
 
 
@@ -59,10 +59,10 @@ Open the app
 
 Visit: http://localhost:3000
 
-# 📸 Screenshots (Optional)
+## 📸 Screenshots (Optional)
 
 Include screenshots of your UI here to make the project visually engaging.
 
-# 🧾 License
+## 🧾 License
 
 This project is open-source and distributed under the MIT License.

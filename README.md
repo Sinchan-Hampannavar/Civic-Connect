@@ -1,6 +1,6 @@
 CiVic Connect – Municipality Complaint Management System
 
-A full-stack web application designed to simplify and streamline the process of reporting and managing civic issues.
+A full-stack web application built to simplify and streamline the process of reporting and managing civic issues within a municipality.
 
 🚀 Tech Stack
 
@@ -10,37 +10,41 @@ Backend: Node.js (Express)
 
 Database: MySQL
 
-API: RESTful services
+API: RESTful Services
 
-✨ Features
+✨ Key Features
 
-👤 User Dashboard: Users can register, log in, and submit complaints with location and issue details.
+👤 User Dashboard: User registration, login, and the ability to submit complaints with detailed descriptions and location data.
 
-🧑‍💼 Admin Dashboard: Admins can track, manage, and update complaint status in real time.
+🧑‍💼 Admin Dashboard: Admins can view, track, and update complaint statuses in real time.
 
-🔐 Secure API: RESTful APIs ensure safe and efficient data communication between frontend and backend.
+🔐 Secure APIs: Robust and secure RESTful APIs for seamless communication between the frontend and backend.
 
-📨 Real-time complaint updates and status tracking.
+📨 Real-Time Updates: Users can track complaint progress and status updates effortlessly.
 
 🛠️ Installation & Setup
 
-Clone the repository:
+Clone the repository
 
 git clone https://github.com/Tejaswinib2/web-tech-project-.git
 
 
-Install dependencies for both frontend and backend:
+Install dependencies
 
+# Frontend
 cd frontend
 npm install
 
+# Backend
 cd ../backend
 npm install
 
 
-Configure your MySQL database in the backend .env file.
+Configure MySQL
 
-Start the servers:
+Add your database credentials in the backend .env file.
+
+Start the servers
 
 # Frontend
 npm start
@@ -49,12 +53,14 @@ npm start
 node server.js
 
 
-Open http://localhost:3000 in your browser.
+Open the app
+
+Visit: http://localhost:3000
 
 📸 Screenshots (Optional)
 
-Add a few UI screenshots here to make your project visually appealing.
+Include screenshots of your UI here to make the project visually engaging.
 
 🧾 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and distributed under the MIT License.

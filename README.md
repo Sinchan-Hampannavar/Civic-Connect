@@ -1,4 +1,4 @@
-iVic Connect – Municipality Complaint Management System
+CiVic Connect – Municipality Complaint Management System
 
 A full-stack web application designed to simplify and streamline the process of reporting and managing civic issues.
 

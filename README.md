@@ -1,8 +1,8 @@
-CiVic Connect – Municipality Complaint Management System
+# CiVic Connect – Municipality Complaint Management System
 
 A full-stack web application built to simplify and streamline the process of reporting and managing civic issues within a municipality.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 Frontend: React.js
 
@@ -12,7 +12,7 @@ Database: MySQL
 
 API: RESTful Services
 
-✨ Key Features
+## ✨ Key Features
 
 👤 User Dashboard: User registration, login, and the ability to submit complaints with detailed descriptions and location data.
 
@@ -22,7 +22,9 @@ API: RESTful Services
 
 📨 Real-Time Updates: Users can track complaint progress and status updates effortlessly.
 
-🛠️ Installation & Setup
+
+
+## 🛠️ Installation & Setup
 
 Clone the repository
 
